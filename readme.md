@@ -27,3 +27,9 @@ Check the above file to see how taxonomy dataset from ncbi taxanomy is exploted 
 
 #### [graph.py](./graph.py) 
 This file contains the `Tree` class which takes nodes, edges with or without weights and comes with functions to get lowest common ancestor of given nodes, edge info. and node info. Feel free to take a look over the implementation.
+
+
+### Dataset
+Download the dataset [here](https://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz)
+names.dmp and nodes.dmp files are used in this project
+For more information check [here](https://www.ncbi.nlm.nih.gov/taxonomy)
