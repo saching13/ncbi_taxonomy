@@ -30,6 +30,6 @@ This file contains the `Tree` class which takes nodes, edges with or without wei
 
 
 ### Dataset
-Download the dataset [here](https://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz)
-names.dmp and nodes.dmp files are used in this project
-For more information check [here](https://www.ncbi.nlm.nih.gov/taxonomy)
+Download the dataset [here](https://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz) <br /> 
+names.dmp and nodes.dmp files are used in this project <br /> 
+For more information check [here](https://www.ncbi.nlm.nih.gov/taxonomy) <br /> 
